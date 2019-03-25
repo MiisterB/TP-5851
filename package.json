@@ -1,0 +1,16 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "TP d'introduction à l'initialisation d'un projet node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-plugin-react": "^7.12.4",
+    "nodemon": "^1.18.10"
+  }
+}
